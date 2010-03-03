@@ -1,0 +1,5 @@
+c:\mydata\projects\AutoTagger\AutoTagger\bin\Debug\AutoTagger.exe
+c:\mydata\projects\AutoTagger\AutoTagger\bin\Debug\AutoTagger.pdb
+c:\mydata\projects\AutoTagger\AutoTagger\obj\Debug\ResolveAssemblyReference.cache
+c:\mydata\projects\AutoTagger\AutoTagger\obj\Debug\AutoTagger.exe
+c:\mydata\projects\AutoTagger\AutoTagger\obj\Debug\AutoTagger.pdb
